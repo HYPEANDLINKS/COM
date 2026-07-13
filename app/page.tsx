@@ -60,7 +60,7 @@ export default function Home() {
             alt: "YouTube",
           },
           {
-            href: "https://www.instagram.com/techsynbal/",
+            href: "https://www.instagram.com/anriltine/",
             src: "/socials/04_meta.svg",
             alt: "Meta",
           },
